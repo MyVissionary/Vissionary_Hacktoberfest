@@ -6,19 +6,21 @@ Welcome to the **Vissionary Hacktoberfest '24 Hackathon**! Join us for a month-l
 - [Timeline](#timeline)
 - [Prizes](#prizes)
 - [How To Submit Your Project?](#how-to-submit-your-project)
-- [Rules and Code of Conduct](#rules-and-code-of-conduct)
+- [Rules ](#rules)
 - [FAQ](#faq)
 
 ---
 
 ## 🗓️ Timeline
-- **Start Date and Time**: October 2nd, 2024, at 2:00 PM IST
-- **End Date and Time**: October 30th, 2024, at 11:59 PM IST
+- **Start Date and Time**: October 2nd, 2024, at 11:59 PM IST
+- **End Date and Time**: October 28th, 2024, at 11:59 PM IST
 
 ---
 
 ## 🏆 Prizes
 
+- **1st Prize**
+  - 4 Premium Courses, Domain
 Exciting Courses And Gift Hampers.
 ---
 
@@ -28,34 +30,32 @@ Exciting Courses And Gift Hampers.
 1. **Sign up for Hacktoberfest**:
    - Register for [Hacktoberfest](https://hacktoberfest.com/).
    - Every team member must sign up individually.
-  
-2. **Sign up for the Hackathon**:
-   - Register for the [Vissionary Hacktoberfest Hackathon](#) (link to be provided).
    
-3. **Fork/Clone the Repository**:
-   - Fork or create a new branch from this repository with the same name as your project title.
+2. **Fork the Repository**:
+   - Fork this repository with the same name as your project title.
 
-4. **Create your project submission**:
+3. **Create your project submission**:
    - Navigate to the `submissions/` directory.
    - Create a copy of `template_submission.md` and name it after your project title.
    - Fill in the necessary details like team name, project description, and tech stack.
 
-5. **Submit a Pull Request**:
+4. **Submit a Pull Request**:
    - Once you've completed your project, create a pull request with your project submission.
-   - Make sure all details are properly filled out for your submission to be valid.
+   - Make sure all required details are properly filled out in the vissionary_submission_template.md for your submission to be valid.
 
 ---
 
-## 📜 Rules and Code of Conduct
+## 📜 Rules
 
-All participants must abide by the rules and code of conduct. Violating any of these may lead to disqualification:
+All participants must abide by the following rules. Violating any of these may lead to disqualification:
 
 - Ensure respectful and inclusive behavior towards fellow participants.
-- Submissions must be original and not plagiarized.
-- Participants must be registered on both Hacktoberfest and the Hackathon submission portal to be eligible for prizes.
-
-For a detailed look, please review our [Code of Conduct](#) (link to be provided).
-
+- Submissions must be original and not plagiarized.We will thoroughly check your submission.
+- Check your mail box and follow our Social Media Platforms for getting all Hackathon related updates.
+- Social Media Platform Links:
+- [LinkedIn](https://www.linkedin.com/company/myvissionary/).
+- [Facebook](https://www.facebook.com/profile.php?id=61566520385321).
+- [Instagram](https://www.instagram.com/myvissionary/).
 ---
 
 ## ❓ FAQ
