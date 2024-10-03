@@ -28,7 +28,7 @@ Mark your calendars 🗓️! Here’s what to expect:
 Here’s what you can win! 🎁
 
 - **1st Prize**  
-  🥇 4 Premium Courses & Exclusive Gift Card  
+  🥇 4 Premium Courses & Exclusive Gift Coupon  
   💻 Free Domain  
   📜 Certificates
 
