@@ -7,10 +7,10 @@ Welcome to **Vissionary Hacktoberfest '24**! 🎉 This is your chance to shine i
 ## 📖 Table of Contents
 
 - [🗓️ Timeline](#user-content-️-timeline)
-- [🏆 Prizes](#prizes)
-- [🚀 How To Submit Your Project](#how-to-submit-your-project)
-- [📜 Rules](#rules)
-- [❓ FAQ](#faq)
+- [🏆 Prizes](#user-content--prizes)
+- [🚀 How To Submit Your Project](#user-content--how-to-submit-your-project)
+- [📜 Rules](#user-content--rules)
+- [❓ FAQ](#user-content--faq)
 
 ---
 
