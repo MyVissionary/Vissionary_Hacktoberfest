@@ -91,7 +91,7 @@ To keep the hackathon fun and fair, please adhere to the following:
 ## ❓ FAQ
 
 **Q: What’s the maximum team size?**  
-A: Teams can have up to 4 members.
+A: Teams can have up to 4 members.You can also participate as Solo.
 
 **Q: Does each participant need to sign up?**  
 A: Yes! Every team member must register to be eligible for prizes.
